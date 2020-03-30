@@ -1,4 +1,6 @@
 import java.io.Console;
+import java.util.LinkedList;
+import java.util.List;
 
 
 public class RegExTreehouse {
@@ -26,6 +28,6 @@ else{
 }
 
     }
-
+//maps, list, generics, interfaces, arrays, strings,
 
 }
